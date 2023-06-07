@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kitkat248
 - 👀 I’m interested in cybercrime, cybersecurity and social justice. 
-- 🌱 I’m currently learning python, french and cursing a cybersecurity's master degree.  
+- 🌱 I’m currently learning python, french and studying a cybersecurity's master degree.  
 - 💞️ I’m looking to collaborate with companies that share my big interest for the cybercrime and the cibersecurity stuff.
 - 📫 How to reach me on different social media: https://linktr.ee/giselaccastillo 
